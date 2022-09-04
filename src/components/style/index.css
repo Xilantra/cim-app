@@ -1,0 +1,19 @@
+.animate__delay-250ms {
+    -webkit-animation-delay: 250ms;
+    animation-delay: 250ms;
+}
+
+.animate__delay-350ms {
+    -webkit-animation-delay: 350ms;
+    animation-delay: 350ms;
+}
+
+.animate__delay-450ms {
+    -webkit-animation-delay: 450ms;
+    animation-delay: 450ms;
+}
+
+.animate__delay-550ms {
+    -webkit-animation-delay: 550ms;
+    animation-delay: 550ms;
+}
